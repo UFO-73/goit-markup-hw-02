@@ -65,6 +65,7 @@ body {
   line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .hero-btn {
@@ -83,6 +84,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
+  font-family: Roboto;
 }
 
 .filter-btn:hover,
@@ -97,6 +99,7 @@ body {
   font-weight: bold;
   font-size: 14px;
   line-height: 1.14;
+  text-transform: uppercase;
 }
 
 .description-text {
